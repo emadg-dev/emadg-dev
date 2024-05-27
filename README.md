@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-<h3 align="left">Visit my Resume Page:</h3>
+<span align="left">Visit my Resume Page:</span>
 <a href="https://emadg-dev.github.io/" target="blank">HERE</a>
-</p>p>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
