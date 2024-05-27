@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm EMAD</h1>
 <h3 align="center">An enthusiastic .Net Developer From Tehran</h3>
 
-- 🌱 I’m currently learning **React.js,**
+- 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **C#, SQL and .Net Framework**
 
@@ -27,6 +27,11 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/emad-ghosi-a16a78254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emad-ghosi-a16a78254/" height="30" width="40" /></a>
 <a href="https://instagram.com/emadnistam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emadnistam" height="30" width="40" /></a>
 </p>
+
+<p align="left">
+<h3 align="left">Visit my Resume Page:</h3>
+<a href="https://emadg-dev.github.io/" target="blank">HERE</a>
+</p>p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
