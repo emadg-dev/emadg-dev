@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm EMAD</h1>
 <h3 align="center">An enthusiastic Back-end Developer From Tehran</h3>
 
-- 🌱 I’m currently learning **django and docker**
+- 🌱 I’m currently learning **Asp.NetZero & Angular**
 
-- 💬 Ask me about **C# and SQL**
+- 💬 Ask me about **C#**
 
 - 📫 How to reach me **Emadg-dev@gmail.com**
 
